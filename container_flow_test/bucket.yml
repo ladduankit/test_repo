@@ -1,0 +1,6 @@
+flows:
+  708d3ae3-79a8-4825-88be-40e56c339805: {ver: 1, file: container_flow_test1.snapshot,
+    comments: '', author: 'L=Troy, C=US, CN=Nifi Admin', created: 1600426052010, flowName: container_flow_test1,
+    flowDesc: container_flow_test1}
+layoutVer: 1
+bucketId: 132c003c-a6e2-4e5a-be6d-183acc2e1d17
