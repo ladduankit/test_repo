@@ -1,0 +1,6 @@
+flows:
+  2986e08f-113b-4dd8-a65f-a8dc071ab625: {ver: 1, file: ssh-connection.snapshot, comments: '',
+    author: 'L=Troy, C=US, CN=Nifi Admin', created: 1601453048146, flowName: ssh-connection,
+    flowDesc: ssh-connection}
+layoutVer: 1
+bucketId: 3a4e75b3-fec9-489c-a4ab-cd5923ed2932
