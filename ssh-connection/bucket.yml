@@ -1,0 +1,6 @@
+flows:
+  8cccab36-1807-411c-931b-7eef081eaa42: {ver: 1, file: ssh-testing.snapshot, comments: '',
+    author: 'L=Troy, C=US, CN=Nifi Admin', created: 1601455053745, flowName: ssh-testing,
+    flowDesc: ssh-testing}
+layoutVer: 1
+bucketId: f3f2976f-b61c-4829-b05c-d7d41c47605f
