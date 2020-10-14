@@ -1,0 +1,6 @@
+flows:
+  886efdd3-12ef-4a46-8e4f-6ca7db4756e8: {ver: 1, file: flow1_14102020_git.snapshot,
+    comments: '', author: 'L=Troy, C=US, CN=Nifi Admin', created: 1602651625769, flowName: flow1_14102020_git,
+    flowDesc: GIT_STORAGE_USE=true}
+layoutVer: 1
+bucketId: 40f73d70-4a87-4e4b-8a74-0af953500088
