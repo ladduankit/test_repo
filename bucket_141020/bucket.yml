@@ -1,4 +1,7 @@
 flows:
+  557a436c-baaf-4536-a7b9-3c89c432dfcb: {ver: 1, file: flow2_141020_git.snapshot,
+    comments: '', author: 'L=Troy, C=US, CN=Nifi Admin', created: 1602652270960, flowName: flow2_141020_git,
+    flowDesc: GIT_STORAGE_USE=true}
   886efdd3-12ef-4a46-8e4f-6ca7db4756e8: {ver: 1, file: flow1_14102020_git.snapshot,
     comments: '', author: 'L=Troy, C=US, CN=Nifi Admin', created: 1602651625769, flowName: flow1_14102020_git,
     flowDesc: GIT_STORAGE_USE=true}
