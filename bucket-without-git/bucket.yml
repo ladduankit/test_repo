@@ -1,0 +1,6 @@
+flows:
+  f94ac32e-3382-4c0f-a496-f3774560be56: {ver: 1, file: import-without-git.snapshot,
+    comments: '', author: 'L=Troy, C=US, CN=Nifi Admin', created: 1602667884712, flowName: import-without-git,
+    flowDesc: ''}
+layoutVer: 1
+bucketId: e2ff5115-a419-4318-90be-066cc2a330fa
