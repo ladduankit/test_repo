@@ -1,6 +1,12 @@
 flows:
-  acb0ec4a-9126-4389-8e73-3d7886f79141: {ver: 1, file: flow-with-git.snapshot, comments: '',
-    author: 'L=Troy, C=US, CN=Nifi Admin', created: 1602664491381, flowName: flow-with-git,
-    flowDesc: flow with git}
+  acb0ec4a-9126-4389-8e73-3d7886f79141:
+    ver: 2
+    file: flow-with-git.snapshot
+    comments: |
+      local changes
+    author: L=Troy, C=US, CN=Nifi Admin
+    created: 1602667697707
+    flowName: flow-with-git
+    flowDesc: flow with git
 layoutVer: 1
 bucketId: 0de6822b-da5b-4c41-8d15-d9ce7cb6a9b2
