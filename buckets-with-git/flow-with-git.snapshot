@@ -1,0 +1,32 @@
+{
+  "header" : {
+    "dataModelVersion" : "3"
+  },
+  "content" : {
+    "flowSnapshot" : {
+      "externalControllerServices" : { },
+      "flowContents" : {
+        "comments" : "",
+        "componentType" : "PROCESS_GROUP",
+        "connections" : [ ],
+        "controllerServices" : [ ],
+        "funnels" : [ ],
+        "identifier" : "7cff77ec-abcf-38d4-8cde-d70c728d6500",
+        "inputPorts" : [ ],
+        "labels" : [ ],
+        "name" : "group-with-git",
+        "outputPorts" : [ ],
+        "position" : {
+          "x" : 1291.0,
+          "y" : 481.0
+        },
+        "processGroups" : [ ],
+        "processors" : [ ],
+        "remoteProcessGroups" : [ ],
+        "variables" : { }
+      },
+      "flowEncodingVersion" : "1.0",
+      "parameterContexts" : { }
+    }
+  }
+}
